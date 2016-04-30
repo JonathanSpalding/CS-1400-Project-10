@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.exe
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.exe
+c:\users\jon\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.pdb
